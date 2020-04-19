@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.stem.diseasemodels.standard:SIInfector xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.stem.diseasemodels.standard="http:///org/eclipse/stem/diseasemodels/standard.ecore" uRI="platform:/resource/usa/decorators/inf.standard" typeURI="stemtype://org.eclipse.stem/Identifiable" diseaseName="Flu" targetISOKey="US-NY" populationIdentifier="human" infectPercentage="true" infectiousCount="10.0">
+  <dublinCore identifier="platform:/resource/usa/decorators/inf.standard" creator="abhimat" format="http:///org/eclipse/stem/diseasemodels/standard.ecore" publisher="The Eclipse Foundation" type="stemtype://org.eclipse.stem/Identifiable" created="2020-04-12" license="Eclipse Public License (EPL)"/>
+</org.eclipse.stem.diseasemodels.standard:SIInfector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.stem.core.scenario:Scenario xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.stem.core.scenario="http:///org/eclipse/stem/core/scenario.ecore" xmlns:org.eclipse.stem.core.sequencer="http:///org/eclipse/stem/core/sequencer.ecore" xmlns:org.eclipse.stem.loggers.csv.model="http://org/eclipse/stem/loggers/csv" uRI="platform:/resource/usa/scenarios/firstusa.scenario" typeURI="stemtype://org.eclipse.stem/Scenario">
+  <dublinCore title="Scenario" identifier="platform:/resource/usa/scenarios/firstusa.scenario" description="A scenario contains a complete model or model hierarchy along with initial conditions (infectors, inoculators) and a sequencer" creator="abhimat" format="http:///org/eclipse/stem/core/scenario.ecore" publisher="The Eclipse Foundation" source="http://wiki.eclipse.org/Creating_a_STEM_Scenario   (and references there-in)" type="stemtype://org.eclipse.stem/Scenario" created="2020-04-12" license="Eclipse Public License (EPL)"/>
+  <model href="platform:/resource/usa/models/usamodel.model#/"/>
+  <sequencer xsi:type="org.eclipse.stem.core.sequencer:SequentialSequencer" href="platform:/resource/usa/sequencers/usasequecer.sequencer#/"/>
+  <scenarioDecorators href="platform:/resource/usa/decorators/inf.standard#/"/>
+  <solver href="platform:/resource/usa/solvers/f1.fd#/"/>
+  <loggers xsi:type="org.eclipse.stem.loggers.csv.model:CSVLogger" href="platform:/resource/usa/loggers/csv.logger#/"/>
+</org.eclipse.stem.core.scenario:Scenario>

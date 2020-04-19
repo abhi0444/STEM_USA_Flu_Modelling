@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.stem.diseasemodels.standard:SEIR xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.stem.diseasemodels.standard="http:///org/eclipse/stem/diseasemodels/standard.ecore" uRI="platform:/resource/usa/decorators/flu.standard" typeURI="stemtype://org.eclipse.stem/Identifiable" diseaseName="Flu" transmissionRate="1.2" recoveryRate="0.2" immunityLossRate="0.001" incubationRate="0.3">
+  <dublinCore title="SEIR Compartment Model" identifier="platform:/resource/usa/decorators/flu.standard" description="SEIR Compartment Model" creator="abhimat" format="http:///org/eclipse/stem/diseasemodels/standard.ecore" publisher="The Eclipse Foundation" source="http://wiki.eclipse.org/Introduction_to_Compartment_Models   (and references there-in)" type="stemtype://org.eclipse.stem/Identifiable" created="2020-04-12" license="Eclipse Public License (EPL)"/>
+</org.eclipse.stem.diseasemodels.standard:SEIR>

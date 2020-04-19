@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.stem.core.sequencer:SequentialSequencer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.stem.core.sequencer="http:///org/eclipse/stem/core/sequencer.ecore" uRI="platform:/resource/usa/sequencers/usasequecer.sequencer" typeURI="stemtype://org.eclipse.stem/Identifiable" duration="13219199000" workComplete="5.0" cycle="8">
+  <dublinCore title="Sequencer" identifier="platform:/resource/usa/sequencers/usasequecer.sequencer" description="Controls time and the duration of a scenario" creator="abhimat" format="http:///org/eclipse/stem/core/sequencer.ecore" publisher="The Eclipse Foundation" source="http://wiki.eclipse.org/Creating_a_STEM_Scenario#Create_a_Sequencer   (and references there-in)" type="stemtype://org.eclipse.stem/Identifiable" created="2020-04-12" license="Eclipse Public License (EPL)" valid="start=2020-04-12;"/>
+  <startTime time="2020-04-12T12:00:00.142+0530"/>
+  <endTime time="2020-09-12T11:59:59.142+0530"/>
+  <currentTime time="2020-04-19T12:00:00.142+0530"/>
+</org.eclipse.stem.core.sequencer:SequentialSequencer>
